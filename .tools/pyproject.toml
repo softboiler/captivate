@@ -22,7 +22,7 @@ name = "Blake Naccarato"
 email = "blake.naccarato+captivate@gmail.com"
 
 [project.urls]
-changes = "https://github.com/blakeNaccarato/captivate/changelog.html"
+changes = "https://blakenaccarato.github.io/captivate/changelog.html"
 docs = "https://blakenaccarato.github.io/captivate/"
 home = "https://github.com/blakeNaccarato/captivate"
 mastodon = "https://fosstodon.org/@blakeNaccarato"
