@@ -13,8 +13,9 @@ name = "captivate"
 version = "0.0.0"
 description = "Preview and save results of computer vision pipelines"
 readme = "README.md"
-license = "MIT"
+license = { file = "LICENSE" }
 requires-python = ">=3.8"
+classifiers = ["License :: OSI Approved :: MIT License"]
 
 [[project.authors]]
 name = "Blake Naccarato"
