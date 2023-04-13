@@ -4,16 +4,23 @@ build-backend = "flit_core.buildapi"
 
 [project]
 name = "captivate"
-requires-python = ">=3.11"
-dependencies = []
+version = "0.0.0"
+description = "Preview and save results of computer vision pipelines"
 readme = "README.md"
-dynamic = [ "version", "description",]
+license = "MIT"
+requires-python = ">=3.8"
+dependencies = []
 [[project.authors]]
 name = "Blake Naccarato"
 email = "blake.naccarato+captivate@gmail.com"
 
 [project.urls]
-Home = "https://github.com/blakeNaccarato/captivate"
+changes = "https://github.com/blakeNaccarato/captivate/changelog.html"
+docs = "https://blakenaccarato.github.io/captivate/"
+home = "https://github.com/blakeNaccarato/captivate"
+mastodon = "https://fosstodon.org/@blakeNaccarato"
+sponsor = "https://github.com/sponsors/blakeNaccarato"
+tracker = "https://github.com/blakeNaccarato/captivate/issues"
 
 [tool.ruff]
 fix = true
