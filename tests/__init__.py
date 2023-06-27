@@ -1,1 +1,1 @@
-"""Tests for this project."""
+"""Tests."""
